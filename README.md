@@ -14,3 +14,7 @@
 <img src="./homework 4/mymap" alt="53018" width='500px'>
 </a>
 
+<a href="./homework 4/mymap.png">
+<img src="./homework 4/mymap.png" alt="53018" width='500px'>
+</a>
+
