@@ -2,19 +2,9 @@
 
 
 
+![mymap](https://user-images.githubusercontent.com/111314301/189786460-2b86d9bb-be10-41d0-bcd9-07be14c17f9b.png)
 
 </a>
-<h2>Georeferenced Map</h2>
-<h3>Observations: The shape of the land is best preserved at the northernmost and southernmost indicatrix circles on the Prime Meridian. Area at the poles appears larger. Additionally, the shape is more distorted in the south than in the north, as indicated by the vertically stretched circles near the southern pole.</h3>
-<a href="./homework4/mymap">
-<img src="./homework4/mymap" alt="53018" width='500px'>
-</a>
-
-<a href="./homework 4/mymap">
-<img src="./homework 4/mymap" alt="53018" width='500px'>
-</a>
-
-<a href="./homework 4/mymap.png">
-<img src="./homework 4/mymap.png" alt="53018" width='500px'>
+text
 </a>
 
