@@ -13,6 +13,5 @@
 "> HTML </a>
 
 
-file:///C%3A/Users/ms00/Desktop/GEOG%20370/homework%204/tiles/{z}/{x}/{y}.png
 
 Control points
