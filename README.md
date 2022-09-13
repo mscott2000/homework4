@@ -3,3 +3,5 @@
 hiii
 is this working
 
+<img src="mymap.png">
+
